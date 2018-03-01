@@ -6,18 +6,19 @@
 Show an understanding of the JavaScript concepts taught in Basecamp up to this point.
 
 ## Directions
-Fork this repo, clone your fork, then complete the challenges in assessment.js.
+Fork this repo, clone your fork and then complete the challenges in assessment.js.
 
-You can open the index.html file in your browser to see unit tests reporting on your status.
+Open the index.html file in your browser to see unit tests reporting on your status.
 
-When you have completed the challenges please follow these instructions:
+When you have completed the challenges please:
 
-* Open the terminal and navigate to where this assessment is.
-* Commit all of your completed code.
-* Type `git checkout -b gh-pages`
-* Type `git push -u origin gh-pages`
-* Find your account name on github and insert it into this url `http://[YourGithubAccountName].github.io/basecamp-assessment-ii`
-* Open that url to make sure it works, then send that url to your assigned mentor!
+ * Commit your code
+ * Send a link to your repository with your completed code to your Basecamp Mentor
+
+ ## `Could not read from remote repository...`
+
+ If you are trying to push your code and you receive the above error, please make sure you have forked and cloned the repository to your own GitHub account. If you are still having trouble, please review `Computer Basics` &gt; `Command Line & Git` &gt; `Mini Project`.
+
 
 ## Contributions
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
