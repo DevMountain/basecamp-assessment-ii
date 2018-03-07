@@ -37,8 +37,10 @@ var myArray = [1, 2, 3, 4];
 //DON'T TOUCH THE CODE BELOW
 var myNumbers = [333, 1, 4, 5, 511, 34, 88, 77, 222];
 //DON'T TOUCH THE CODE ABOVE
+function evensOnly() {
+  // CODE HERE
+}
 
-// CODE HERE
 // #9 Using filter(), return only your friends of the array of people below. Assign it to a variable called 'trueFriends'.
 // CODE HERE
 var peopleIknow = [
