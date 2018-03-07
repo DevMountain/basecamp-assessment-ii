@@ -11,7 +11,7 @@
 var message = {
   date: new Date(),
   userName: me.firstname
-}
+};
 //DON'T TOUCH THE CODE ABOVE
 // CODE HERE
 
@@ -29,13 +29,13 @@ var message = {
 
 // #7 Create a 'myArrayCopy' variable. It should equal the myArray variable. Use the built in JavaScript method to create a copy.
 //DON'T TOUCH THE CODE BELOW
-var myArray = [1, 2, 3, 4]
+var myArray = [1, 2, 3, 4];
 //DON'T TOUCH THE CODE ABOVE
 // CODE HERE
 
 // #8 Below is a array, myNumbers. Create a function called 'evensOnly' that returns the 'evensArray' of only even numbers
 //DON'T TOUCH THE CODE BELOW
-var myNumbers = [333, 1, 4, 5, 511, 34, 88, 77, 222]
+var myNumbers = [333, 1, 4, 5, 511, 34, 88, 77, 222];
 //DON'T TOUCH THE CODE ABOVE
 
 // CODE HERE
@@ -48,8 +48,7 @@ var peopleIknow = [
   { name: "Sarah", friend: false },
   { name: "Michelle", friend: false },
   { name: "Holly", friend: true }
-]
+];
 
-// #10 create a function caled indexFinder and loop ove the randomNumbers array below and return a new array called 'indexes' with just their indexes. Be sure to invoke indexFinder.
-let randomNumbers = [1, 3453, 34, 456, 32, 3, 2, 0]
-
+// #10 create a function called indexFinder and loop over the randomNumbers array below and return the result into a new array called 'indexes' with just their indexes. Be sure to invoke indexFinder.
+let randomNumbers = [1, 3453, 34, 456, 32, 3, 2, 0];
