@@ -13,7 +13,7 @@ Open the index.html file in your browser to see unit tests reporting on your sta
 When you have completed the challenges please:
 
  * Commit your code
- * Send a link to your repository with your completed code to your Basecamp Mentor
+ * Send a link to your repository with your completed code to basecamp@devmountain.com
 
  ## `Could not read from remote repository...`
 
