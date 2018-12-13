@@ -10,11 +10,6 @@ Fork this repo, clone your fork and then complete the challenges in assessment.j
 
 Open the index.html file in your browser to see unit tests reporting on your status.
 
-When you have completed the challenges please:
-
- * Commit your code
- * Send a link to your repository with your completed code to basecamp@devmountain.com
-
  ## `Could not read from remote repository...`
 
  If you are trying to push your code and you receive the above error, please make sure you have forked and cloned the repository to your own GitHub account. If you are still having trouble, please review `Computer Basics` &gt; `Command Line & Git` &gt; `Mini Project`.
